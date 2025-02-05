@@ -8,5 +8,4 @@
 ### > Minecraft: marum00  
 
 # [My Site]
-### ~~Coming Soon~~
-> また、いつかね...
+### ~~Coming Soon~~  また、いつかね...
