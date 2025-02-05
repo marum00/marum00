@@ -9,3 +9,4 @@
 
 # [My Site]
 ### ~~Coming Soon~~
+> また、いつかね...
