@@ -8,4 +8,4 @@
 ### > Minecraft: marum00  
 
 # [My Site]
-### ~~~Coming Soon~~~
+### ~~Coming Soon~~
